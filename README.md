@@ -1,6 +1,6 @@
 # Image Analysis and Patter Recognition - EPFL 2020
 
-This repository contains my work for the course Image Analysis and Pattern Recognition (EE-451.
+This repository contains my work for the course Image Analysis and Pattern Recognition (EE-451).
 
 # Directories:
 - Labs: 
